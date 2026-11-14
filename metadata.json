@@ -1,0 +1,6 @@
+{
+  "name": "SpecVault - Premium Tech Affiliate & Comparison",
+  "description": "Premium tech affiliate and product comparison platform for flagship mobiles, laptops, technology reviews, and buying guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
